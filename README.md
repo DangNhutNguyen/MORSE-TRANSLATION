@@ -1,4 +1,7 @@
 # MORSE-TRANSLATION
+```
+C:\path\to\main.py
+```
 - Run main.py in CMD/Terminal:
   
   ![image](https://github.com/user-attachments/assets/31dc49d9-0d64-4fac-8370-a3ef5539a8ce)
